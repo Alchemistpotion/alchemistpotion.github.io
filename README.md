@@ -1,1 +1,1 @@
-# alchemistwithpotion.github.io
+# alchemistpotion.github.io
